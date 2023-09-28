@@ -1,0 +1,4 @@
+# FinLit
+My final project is called FinLite which is derived from ‘Financial literacy’. It was inspired by a course I completed a few week back called ‘Be money wise’ from the university of Johannesburg. Although COVID-19 is over, South Africans are still living the effects of the pandemic.
+My project will run on the principals that I learnt from the course which help money identify their spending behaviors, analyzing investments and a strategy on how to avoid debt that you can’t pay by using the debt-to-income ratio. It is a personal finance programme which targets anyone who want to make a difference in their finance.
+The biggest risk would be the irritation from users who does not have a little prior knowledge on the financial terminologies and I will create in the programme a set of definitions for them and instructions on how to use the programme if they input a wrong data value
